@@ -1,0 +1,85 @@
+h1{
+
+font-family: new times roman;
+
+}
+h2{
+
+font-family: new times roman;
+font-color: darkblue;
+
+
+}
+h3{
+
+font-family: arial;
+
+}
+h4{
+
+font-family: arial;
+
+}
+
+.tx{
+
+width: 75%;
+
+
+}
+.mac{
+
+background-color: black;
+color : white;
+padding: 20px;
+
+}
+header{
+
+background-color:darkblue;
+color: white;
+text-align: center;
+padding:5px;
+
+}
+
+nav{
+
+font-color: blue;
+line-height: 30px;
+background-color: black;
+height : 300px;
+width : 100px;
+float: left;
+padding: 5px;
+
+}
+section{
+
+width: 1200px;
+float: left;
+padding: 10px;
+
+}
+footer{
+
+font-color: white;
+background-color: darkblue;
+color:white;
+clear:both;
+text-align : center;
+padding: 10px;
+font-size:12;
+}
+.corpo{
+
+margin-left:5%;
+margin-right:5%;
+
+}
+.perfil{
+
+margin-left:70%;
+margin-right:5%;
+
+}
